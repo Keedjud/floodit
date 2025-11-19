@@ -77,7 +77,6 @@ Additionally, to compile the backend and frontend, you will need:
   ```
 
 - You can configure the application in one of two ways:
-
   - Either set any of the [documented environment
     variables](#environment-variables), for example:
 
@@ -122,7 +121,6 @@ suite][automated-tests]:
   ```
 
 - Configure the application for testing:
-
   - Either set any of the [documented environment
     variables](#environment-variables), for example:
 
